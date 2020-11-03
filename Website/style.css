@@ -1,0 +1,34 @@
+.Header {
+    background-color:rgb(0, 248, 95) ;
+    border: groove;
+    display: flex;
+    justify-content: center;
+}
+.Menu {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darksalmon;
+}
+body {
+    background-color: #00e1ff;
+}
+.SpaceShooter {
+    display: flex;
+    border: ridge rgb(43, 255, 0);
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 200px;
+}
+.Item1 {
+    display: flex;
+    flex-wrap: wrap;
+    border: groove gold; 
+    width: 200px;
+   
+}
